@@ -4,7 +4,7 @@ Notable changes to this list. Typo fixes and small wording tweaks are not logged
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## 1.0.0 — 2026-08-22
+## 1.0.0 — 2026-08-26
 
 Initial public-ready release.
 

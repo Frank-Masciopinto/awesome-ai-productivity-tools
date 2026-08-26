@@ -22,7 +22,7 @@ their own TiorAI repositories and are not repeated here, so nothing in this list
 Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a living.
 
 <!-- last-reviewed:start -->
-**Last reviewed:** 2026-08-22
+**Last reviewed:** 2026-08-26
 <!-- last-reviewed:end -->
 
 ## Contents

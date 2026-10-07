@@ -170,6 +170,7 @@ Getting through the reading list, and remembering any of it.
 - **[Recall](https://www.recall.it/)** — Summarises anything you save and links it into a growing knowledge graph automatically. `Freemium` `Web` `iOS` `Android` `Browser Extension`
 - **[Scholarcy](https://www.scholarcy.com/)** — Breaks a research paper into a summary card with the findings, methods, and references separated. `Freemium` `Web` `Browser Extension`
 - **[Speechify](https://speechify.com/)** — Reads documents and web pages aloud at speed, which turns a commute into reading time. `Freemium` `Web` `iOS` `Android` `Browser Extension` · [free vs paid](https://tiorai.com/compare/speechify-free-vs-paid/)
+- **[SummarizAI](https://summarizai.ink/)** — Summarises YouTube lectures and talks on the watch page, with chapters, chat, and flashcards for later review. `Freemium` `Browser Extension`
 
 ## Writing and editing
 
